@@ -6,7 +6,7 @@
 |_|  |_| |_|\___/  |\____|_|  |_|____/ \___\__,_|_| |_|
 my go test project
 
-##How to use
+## How to use
 Usage of MTJCmscan:
   -h string
         set one host, 127.0.0.1
@@ -16,6 +16,6 @@ Usage of MTJCmscan:
         json of fingerprint
         
         
-##Problem
+## Problem
 There are many things and changes to do with this project.It's just a try of my coding capacity
 Welcome to give me advice！
